@@ -1,4 +1,4 @@
-nome = "Marah"
+nome = "Carla"
 idade = "16"
 poder = "agilidade"
 fraqueza = "sono"
